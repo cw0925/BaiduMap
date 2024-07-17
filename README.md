@@ -1,4 +1,5 @@
 # bd_map
+#Flutter 集成 百度定位、地图、鹰眼SDK
 ## Flutter ,配置百度地图后运行报错:
 BDMapSDKException: you have not supplyed the global app context info from SDKInitializer.initialize(Context) function.
 
